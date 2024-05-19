@@ -33,7 +33,6 @@ export const Home = () => {
         <Title title={"Only on Netflix"} category={'popular'}></Title>
         <Title title={"Upcoming"} category={'upcoming'}></Title>
         <Title title={"Top Pics for You"} category={'now_playing'}></Title>
-
       </div>
       <Footer></Footer>
     </div>

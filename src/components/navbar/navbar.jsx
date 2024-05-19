@@ -7,7 +7,7 @@ import profile_img from '../../assets/profile_img.png'
 import Caret_icon from '../../assets/caret_icon.svg'
 import { logout } from '../../firebase'
 function Navbar() {
-  // const navref=useRef();
+  // const navref=useRef(null);
   // useEffect(()=>{
   //   window.addEventListener('scroll',()=>{
   //     if(window.scrollY >= 80){
